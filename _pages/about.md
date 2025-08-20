@@ -1,10 +1,14 @@
 ---
 permalink: /
-title: "Welcome to my webpage!"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of my website! YEEEEAAAAAHHHH
+Hi! I am a final year graduate student at the University of São Paulo (USP).
+
+My research interests are in observational cosmology, specially multi-tracer statistics.
+
+You can easily reach me at joao.vitor.ferri@usp.br
