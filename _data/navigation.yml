@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com.br/citations?user=NIWtMk0AAAAJ
 
   - title: "Talks"
     url: /talks/    
@@ -24,8 +24,8 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    #url: /cv/
-    url: https://scholar.google.com.br/citations?user=NIWtMk0AAAAJ
+    url: /cv/
+    #url: https://scholar.google.com.br/citations?user=NIWtMk0AAAAJ
     
   # - title: "CV"
   #   url: /cv-json/
