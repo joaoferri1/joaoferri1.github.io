@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "João Vitor Dinarte Ferri"
-description              : &description "PhD. candidate at the University of São Paulo"
+description              : &description "Project Researcher (Kavli IPMU, UTokyo, Japan)"
 url                      : https://joaoferri1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "me.jpg"
   name             : "João Vitor Dinarte Ferri"
   pronouns         : # example: "she/her"  
-  bio              : "PhD. candidate at the University of São Paulo"
-  location         : "São Paulo, Brazil"
-  employer         : "University of São Paulo"
+  bio              : "Project Researcher"
+  location         : "Kashiwa, Japan"
+  employer         : "Kavli IPMU"
   uri              : # URL
-  email            : "joao.vitor.ferri@usp.br" 
+  email            : "joao.ferri@ipmu.jp" 
 
   # Academic websites
   academia         : # URL
